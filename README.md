@@ -1,15 +1,15 @@
 # Introduction to Computer Security Principles
 
-## CECS 378: Section 1 (5739)
+## CECS 378: Section 1 (7589)
 
-### Spring 2023
+### Fall 2023
 
-| Class Lecture | Time                | Room    |
-|---------------|---------------------|---------|
-| Tue Thu       | 11:00 AM - 12:15 PM | HC-100  |
+| Class Lecture | Time                | Room     |
+|---------------|---------------------|----------|
+| Mon Wed       | 5:30 PM - 6:45 PM   | VEC-518  |
 
-| Instructor        | Email                       | Office  | Office Hours           |
-|-------------------|-----------------------------|---------|----------------------------|
+| Instructor        | Email                       | Office  | Office Hours             |
+|-------------------|-----------------------------|---------|--------------------------|
 | Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-530 | 10:00 - 11:00 AM Mon-Thu |
 
 ### Required Textbook
@@ -29,15 +29,16 @@ By the conclusion of this course, students will be able to:
 * Understand, recognize, and know how to avoid the main security vulnerabilities
 * Make ethical decisions with respect to computer security and user privacy
 * Know how to design and analyze a secure computer system in general
-* Have a solid understanding of current, topical issues in computer security 
+* Have a solid understanding of current, topical issues in computer security
 
 | Grading           |      | | Grade Scale |    |
 |-------------------|------|-|-------------|----|
 | Homework and Labs | 35%  | | >= 90%      | A  |
-| Exams and Quizzes | 40%  | | 80% - 89%   | B  |
-| Final Exam        | 25%  | | 70% - 79%   | C  |
-|                   |      | | 60% - 69%   | D  |
-| **Total**         | 100% | | < 60%       | F  |
+| Exam One          | 20%  | | 80% - 89%   | B  |
+| Exam Two          | 20%  | | 70% - 79%   | C  |
+| Final Exam        | 25%  | | 60% - 69%   | D  |
+|                   |      | | < 60%       | F  |
+| **Total**         | 100% | |             |    |
 
 ### Exams
 
@@ -66,21 +67,22 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 |  Week      | Subject                                             |
 |------------|-----------------------------------------------------|
-| Jan 19, 23 | Intro to Computer Security (Ch 1)                   |
-| Feb  1     | Symmetric and Assymmetric Encryption (Ch 2, 20, 21) |
-| Feb  6     | Encryption, ctd                                     |
-| Feb 13     | First exam, Malicious Software (Ch 6)               |
-| Feb 20     | Malicious Software, ctd                             |
-| Feb 27     | Denial of Service Attacks (Ch 7)                    |
-| Mar  6     | DoS ctd, Database and Cloud Security (Ch 5)         |
-| Mar 13     | Database, ctd                                       |
-| Mar 20     | Second Exam, Buffer Overflow Attacks (Ch 10)        |
-| Mar 27     | **Spring Break**                                    |
-| Apr  3     | Buffer Overflow, ctd.                               |
-| Apr 10     | User Authentication and Access Control (Ch 3, 4)    |
-| Apr 17     | UAAC ctd, Intrusion Detection (Ch 8)                |
-| Apr 24     | OS Security (Ch 12)                                 |
-| May  1, 8  | Case Study, Final Exam                              |
+| Aug 21     | Intro to Computer Security (Ch 1)                   |
+| Aug 28     | Symmetric and Assymmetric Encryption (Ch 2, 20, 21) |
+| Sep  4     | Encryption, ctd                                     |
+| Sep 11     | Encryption, ctd                                     |
+| Sep 18     | First exam, Malicious Software (Ch 6)               |
+| Sep 25     | Denial of Service Attacks (Ch 7)                    |
+| Oct  2     | DoS ctd, Database and Cloud Security (Ch 5)         |
+| Oct  9     | Database, ctd.                                      |
+| Oct 16     | Second Exam, Buffer Overflow Attacks (Ch 10)        |
+| Oct 23     | Buffer Overflow, ctd                                |
+| Oct 30     | Buffer Overflow, ctd                                |
+| Nov  6     | User Authentication and Access Control (Ch 3, 4)    |
+| Nov 13     | UAAC ctd, Intrusion Detection (Ch 8)                |
+| Nov 20     | Fall Break                                          |
+| Nov 27     | OS Security (Ch 12)                                 |
+| Dec 4-11   | Case Study, Final Exam                              |
 
 ### Computer Software
 
