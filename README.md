@@ -1,6 +1,6 @@
 # Introduction to Computer Security Principles
 
-## CECS 378: Section 1 (7589)
+## CECS 378: Section 3 (7589)
 
 ### Fall 2023
 
